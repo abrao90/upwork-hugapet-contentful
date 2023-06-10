@@ -11,7 +11,7 @@
     "chai-enzyme": "^1.0.0-beta.1",
     "enzyme": "^3.10.0",
     "fade": "^0.2.0",
-    "gatsby": "^2.10.0",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.1",
     "gatsby-plugin-manifest": "^2.2.0",
     "gatsby-plugin-material-ui": "^2.0.1",
